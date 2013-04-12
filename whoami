@@ -1,0 +1,270 @@
+<!doctype html>
+
+<!--
+
+    iMaZiNe Report
+
+    Dec. 13. 2012 
+
+    How to understand Responsive Web Design with impress.js & HTML/CSS
+
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>How to Underdstand Responsive Web - ImaZiNe Dec. 13. 2012</title>
+    
+    <meta name="description" content="Understanding Responsive Web" />
+    <meta name="author" content="iMaZiNe" />
+
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type="text/css">
+    <link href="css/121213.css" rel="stylesheet" />
+    
+</head>
+
+
+<body class="impress-not-supported">
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Morden Web </b> browser.</p>
+</div>
+
+
+<div id="impress">
+
+ 
+    <div id="before" class="step center" data-x="-3100" data-y="-4100" data-rotate="40" data-scale="6">      <p><h3><b>"How to understand Responsive Web Design"</b></h3><br/><a href="http://twitter.com/imazine80">[ by iMaZiNe ]</a></br> Please Contact<br/><a href="http://imazine.github.com/presentation" target="_blank">[ http://imazine.github.com/presentation ]</a><br/>You can see more Examples.</p>
+    </div>
+
+    
+    <div id="title" class="step" data-x="-470
+    0" data-y="-700" data-scale="5">
+        <h2>What is</h2>
+        <h1><b class="rotating">RESPONSIVE</b></h1>
+        <h2>Web ?</h2>
+        
+    </div>
+
+    <div id="titleSQ1" class="step center" data-x="1400" data-y="400" data-scale="4" data-rotate="-40">
+        <h1><b>Variable</b></h1>
+        <h4>Contents & Layout</h4>
+
+    </div>
+
+    <div id="titleSQ2" class="step center" data-x="400" data-y="400" data-scale="1" data-rotate="190">
+        <super><strong>That's all!!</strong></super>
+
+    </div>
+
+    <div id="why" class="step" data-x="850" data-y="3000" data-scale="3">
+        <h5>Why do we have to</h5> <h1><strong>Design</strong></h1>
+        <h5><b>Responsive Web</b> ?<h5>
+    </div>
+
+    <div id="why1" class="step center" data-x="850" data-y="3000" data-scale="5">
+        <h3>Why?</h3>
+    </div>
+    <div id="why2" class="step center" data-x="850" data-y="3000" data-scale="8">
+        <super>Why?</super>
+    </div>
+
+    <div id="depend" class="step" data-x="850" data-y="3000" data-rotate="90" data-scale="3">
+        <p>Depend <b>N-Screen</b> for <strong>Tablet, SmartPhone, PC and Future Devices.</strong></p>
+        <p>Easy to <strong>manage.</strong> </p>
+    </div>
+     <div id="most" class="step center" data-x="850" data-y="3000" data-rotate="90" data-scale="5">
+        <h2>Most of all...</h2>
+    </div>
+    <div id="samecon" class="step center" data-x="850" data-y="3000" data-rotate="90" data-scale="7">
+        <h4>Same <b>Contents</b> & <strong>U</strong>ser e<strong>X</strong>perience</h4>
+    </div>
+     <div id="precon" class="step center" data-x="850" data-y="3000" data-rotate="90" data-scale="9">
+        <h3>Is it <strong>Precondition?</strong></h3>
+    </div>
+
+    <div id="no" class="step center" data-x="850" data-y="3000" data-rotate="270" data-scale="11">
+        <super><b>NO!!</b></super>
+    </div>
+    <div id="howto" class="step center" data-x="4200" data-y="1000" data-rotate="90" data-scale="11">
+        <h4>How to make <b>Responsive Web?</b></h4>
+    </div>
+    <div id="howto2" class="step center" data-x="6200" data-y="1000" data-rotate="90" data-scale="8">
+        <h4>With <b>Inline-Blocks</b></h4>
+        <h4>With <b>JavaScript</b></h4>
+        <h4>With <b>MediaQuery</b></h4>
+        <h4>or...</h4>
+    </div>
+    <div id="complex" class="step center" data-x="8200" data-y="1000" data-rotate="90" data-scale="6">
+        <h3><strong>Complexed Methods</strong></h3>
+    </div>
+    <div id="issue" class="step center" data-x="10200" data-y="1000" data-rotate="270" data-scale="2">
+        <h4>Issues?</h4>
+    </div>
+    <div id="cbs" class="step center" data-x="7200" data-y="4000" data-rotate="180" data-scale="10">
+        <h4>Cross Browsing Support?</h4>
+    </div>
+    <div id="cbssol" class="step center" data-x="10200" data-y="1000" data-rotate="90" data-scale="10">
+        <p>It's not a problem.</p>
+        <p>We have many solutions.</p>
+    </div>
+     <div id="rissue" class="step center" data-x="12000" data-y="1000" data-rotate="90" data-scale="10">
+        <h3>What is <strong>REAL</strong> issue?</h3>
+    </div>
+    <div id="mobile" class="step center" data-x="12000" data-y="1000" data-rotate="270" data-scale="5">
+        <h3>It's <strong>Mobile!!!</strong></h3>
+    </div>
+     <div id="low" class="step center" data-x="12000" data-y="3000" data-rotate="270" data-scale="3">
+        <p><b>Low performance</b> <strong>Browser.</strong></p>
+        <p><b>Low performance</b> <strong>JavaScript VM.</strong></p>
+        <p><b>Large traffic</b> with <strong>useless ccontents.</strong>.</p>
+        <p>Like this...</p>
+    </div>
+    <div id="img1" class="step center" data-x="12000" data-y="5000" data-rotate="270" data-scale="1">
+        <img src="images/web.png">
+    </div>
+    <div id="img2" class="step center" data-x="12000" data-y="7000" data-rotate="270" data-scale="1">
+        <img src="images/tablet.png">
+    </div>
+    <div id="img3" class="step center" data-x="12000" data-y="9000" data-rotate="270" data-scale="1">
+        <img src="images/5inch.png">
+    </div>
+    <div id="img4" class="step center" data-x="12000" data-y="11000" data-rotate="90" data-scale="1">
+        <img src="images/mobile.png">
+    </div>
+    <div id="uls" class="step center" data-x="12000" data-y="11000" data-rotate="180" data-scale="1">
+        <p>Useless image processing makes <b>ineffecient Battery Life</b>.</p>
+        <p>Depend on <b>wireless condition</b>.</p>
+        <br/>
+        <p>Focused <strong>Document-Weight</strong>.</p>
+    </div>
+    <div id="solution2" class="step center" data-x="10200" data-y="11000" data-rotate="0" data-scale="3">
+        <h3>Solution?</h3>
+    </div>
+
+    <div id="otoh" class="step center" data-x="10200" data-y="10000" data-rotate="0" data-scale="1">
+        <h3>On the other hands...</h3>
+    </div>
+
+    <div id="vs" class="step center" data-x="11200" data-y="9000" data-rotate="90" data-scale="3">
+        <h3><b>Useful</b> Design</h3> <h1><strong>VS</strong></h1> <h3><b>Useless</b> Design</h3>
+    </div>
+    <div id="useless" class="step center" data-x="10200" data-y="9000" data-rotate="90" data-scale="1">
+        <img src="images/useless1.jpeg">
+        <h5>Useless Case</h5>
+    </div>
+    <div id="useless1" class="step center" data-x="9200" data-y="9000" data-rotate="90" data-scale="1">
+        <img src="images/useless3.jpeg">
+        <h5>Useless Case</h5>
+    </div>
+    <div id="useless2" class="step center" data-x="8200" data-y="9000" data-rotate="90" data-scale="1">
+        <img src="images/useless5.jpeg">
+        <h5>Useless Case</h5>
+    </div>
+    <div id="useful" class="step center" data-x="7200" data-y="9000" data-rotate="90" data-scale="1">
+        <img src="images/useful.jpeg">
+        <h5>Useful Case?</h5>
+    </div>
+    
+
+    <div id="tai" class="step center" data-x="8200" data-y="8000" data-rotate="330" data-scale="1">
+        <h1>Think about it.</h1>
+        <h3>Are you <b>Designer</b><br/> or <strong>Web Designer?</strong></h3>
+    </div>
+    <div id="weneed" class="step center" data-x="7200" data-y="7000" data-rotate="150" data-scale="3">
+        <h3>Maybe we need <br/><b>Hybrid Theory</b>.</h3>
+    </div>
+    
+    
+    <div id="Csolution" class="step center" data-x="7200" data-y="6000" data-rotate="120" data-scale="3">
+        <h2><strong>Solution?</strong></h2>
+    </div>
+
+    <div id="makelight" class="step center" data-x="7200" data-y="5000" data-rotate="90" data-scale="3">
+        <p>Make Light, Tiny, tidy, little, simple, minify...</p>
+    </div>
+
+    <div id="WTF" class="step center" data-x="7200" data-y="4000" data-rotate="60" data-scale="1">
+        <super>WTF.!!!</super>
+    </div>
+
+    <div id="csi" class="step center" data-x="7200" data-y="4000" data-rotate="30" data-scale="4">
+        <h3>Common <br/><b>Solution is</b>...</h3>
+    </div>
+    <div id="Cbd" class="step center" data-x="7200" data-y="4000" data-rotate="360" data-scale="1">
+        <h3>The <strong>Code Based Design.</strong></h3>
+    </div>
+    <div id="webis" class="step center" data-x="7200" data-y="4600" data-rotate="360" data-scale="1">
+        <h4>Web Page is <b>Document.</b></h4>
+    </div>
+    <div id="Webiscd2" class="step center" data-x="7200" data-y="5200" data-rotate="360" data-scale="1">
+        <h4>Web Page is...<br/><strong>Cascading Document.</strong></h4>
+    </div>
+    <div id="Cbdisthis" class="step center" data-x="7200" data-y="6200" data-rotate="360" data-scale="1">
+        <h5>Understand <b>cascade flow</b></h5>
+        <h5>Construct <b>cascade HTML</b></h5>
+        <h5>Draw with <b>CSS</b></h5>
+        <h5>and Less <b>Images, JavaScript & Framework</b></h5>
+    </div>
+    <div id="wwhtdcbd" class="step center" data-x="7200" data-y="5000" data-rotate="0" data-scale="3">
+        <h5>Why we have to do <strong>Code Based Design.</strong></h5>
+    </div>
+    <div id="Cbdis" class="step center" data-x="6200" data-y="5000" data-rotate="270" data-scale="6">
+        <h5>Ultra light weight</h5>
+        <h5>Faster</h5>
+        <h5>Accessible</h5>
+        <h5>and...</h5>
+    </div>
+    <div id="Cbdis2" class="step center" data-x="6200" data-y="4000" data-rotate="0" data-scale="2">
+        <h4><b>FLEXIBLE</b></h4>
+        <super>&</super>
+        <h4><strong>RESPONSE</strong></h4>
+    </div>
+
+    <div id="samples" class="step center" data-x="5200" data-y="6000" data-rotate="180" data-scale="3">
+        <h3>Samples</h3>
+        <h5><a href="http://nodeconf.uk/" target="_blank">play.node();</a></h5>
+        <h5><a href="http://nodestack.org" target="_blank">Nodestack</a></h5>
+        <h5><a href="http://stuffandnonsense.co.uk/" target="_blank">StuffAndNonsense</a></h5>
+    </div>
+
+    <div id="tips" class="step center" data-x="5200" data-y="8000" data-rotate="0" data-scale="3">
+        <h2><strong>TIPS</strong></h2>
+        <h4>for CSS</h4>
+        <h4>for Collaboration</h4>
+        <p>respond.js, ie5shiv.js, ie9fix.css</p>
+    </div>
+
+    <div id="Conclusion" class="step center" data-x="5200" data-y="8000" data-rotate="270" data-scale="3">
+        <h3><b>Conclusion</b></h3>
+    </div>
+
+    <div id="enjoytr" class="step center" data-x="5200" data-y="8000" data-rotate="180" data-scale="3">
+        <h2>Enjoy the <strong>RULES !!</strong></h2>
+    </div>
+
+    <div id="thanks" class="step center" data-x="7200" data-y="4000" data-rotate="180" data-scale="3">
+        <h3>THANKS</h3>
+    </div>
+
+    <div id="overview" class="step" data-x="3000" data-y="1500" data-scale="10">
+    </div>
+</div>
+
+
+<script>
+if ("ontouchstart" in document.documentElement) { 
+    document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+}
+</script>
+
+
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+
+
